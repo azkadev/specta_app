@@ -1,3 +1,5 @@
 display_name: Specta App Azkadev
 msix_version: 1.0.0.0
 # logo_path: C:\path\to\logo.png
+sign_msix: false
+install_certificate: false
