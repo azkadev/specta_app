@@ -1,67 +1,31 @@
-<p align="center">
-    <a href="https://github.com/azkadev">
-        <img src="https://telegra.ph/file/e90bdeab8390b8c0d9df2.png" alt="Specta"
-            width="312"
-            height="312">
-    </a>
-    <br>
-    <a href="https://youtube.com/c/galaxeus">
-        <img
-            src="https://raw.githubusercontent.com/azkadev/azkadev/main/assets/images/powered_galaxeus.png"
-            alt="galaxeus"
-            width="350"
-            height="80"
-        >
-    </a>
-    <br>
-    <b>Specta Apps</b>
-    <br>
-</p>
- 
+PHAgYWxpZ249ImNlbnRlciI+CiAgICA8YSBocmVmPSJodHRwczovL2dpdGh1
+Yi5jb20vYXprYWRldiI+CiAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vdGVs
+ZWdyYS5waC9maWxlL2U5MGJkZWFiODM5MGI4YzBkOWRmMi5wbmciIGFsdD0i
+U3BlY3RhIgogICAgICAgICAgICB3aWR0aD0iMzEyIgogICAgICAgICAgICBo
+ZWlnaHQ9IjMxMiI+CiAgICA8L2E+CiAgICA8YnI+CiAgICA8YSBocmVmPSJo
+dHRwczovL3lvdXR1YmUuY29tL2MvZ2FsYXhldXMiPgogICAgICAgIDxpbWcK
+ICAgICAgICAgICAgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVu
+dC5jb20vYXprYWRldi9hemthZGV2L21haW4vYXNzZXRzL2ltYWdlcy9wb3dl
+cmVkX2dhbGF4ZXVzLnBuZyIKICAgICAgICAgICAgYWx0PSJnYWxheGV1cyIK
+ICAgICAgICAgICAgd2lkdGg9IjM1MCIKICAgICAgICAgICAgaGVpZ2h0PSI4
+MCIKICAgICAgICA+CiAgICA8L2E+CiAgICA8YnI+CiAgICA8Yj5TcGVjdGEg
+QXBwczwvYj4KICAgIDxicj4KPC9wPgogCgojIFNwZWN0YSBBcHAg8J+UpQoK
+IyMgRGVtbyAvIFF1aWNrIG92ZXJ2aWV3CgoKIyMgU3RhdHVzCj4gYmVsdW0g
+c2lhcCBkaSBydW4gcHVibGljCgotLS0KIyMgcnVuCgoxLiBDbG9uZSByZXBv
+IGZpcnN0CiAgIGBgYGJhc2gKICAgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHVi
+LmNvbS9hemthZGV2L3NwZWN0YV9hcHAuZ2l0CiAgIGNkIHNwZWN0YV9hcHAK
+ICAgYGBgCgoyLiBkZXZlbG9wCiAgIGBgYGJhc2gKICAgZmx1dHRlciBydW4K
+ICAgYGBgCjMuIEJ1aWxkCiAgIGBgYGJhc2gKICAgZmx1dHRlciBidWlsZCB7
+cGxhdGZvcm19IC0tcmVsZWFzZQogICBgYGAKLS0tCgojIyMgRmVhdHVyZXMK
+CjEuIFt4XSAuCjIuIFsgXSAuCjMuIFsgXSAuCjQuIFsgXSAuCjUuIFsgXSAu
+CjYuIFsgXSAuCjcuIFsgXSAuCjguIFsgXSAuCjkuIFsgXSAuCgojIyMgU3Vw
+cG9ydCAmIERpc2t1c2kg8J+RpQoKPiBbRGlzY3Vzc2lvbiBHcm91cF0oaHR0
+cHM6Ly90Lm1lL2RldmVsb3Blcl9iYXNlX2dyb3VuZCkgYW5kIFtEZXZlbG9w
+ZXIgQ2hhbm5lbF0oaHR0cHM6Ly90Lm1lL2F6a2FkZXYpCgojIyMgQ29weXJp
+Z2h0ICYgTGljZW5zZSDwn5GuCgoqIENvcHlyaWdodCAoQykgMjAyMiBieSBb
+QXprYWRldl0oaHR0cHM6Ly9naXRodWIuY29tL2F6a2FkZXYpIOKdpO+4j++4
+jw==
 
-# Specta App 🔥
-
-## Demo / Quick overview
-
-
-## Status
-> belum siap di run public
-
----
-## run
-
-1. Clone repo first
-   ```bash
-   git clone https://github.com/azkadev/specta_app.git
-   cd specta_app
-   ```
-
-2. develop
-   ```bash
-   flutter run
-   ```
-3. Build
-   ```bash
-   flutter build {platform} --release
-   ```
----
-
-### Features
-
-1. [x] .
-2. [ ] .
-3. [ ] .
-4. [ ] .
-5. [ ] .
-6. [ ] .
-7. [ ] .
-8. [ ] .
-9. [ ] .
-
-### Support & Diskusi 👥
-
-> [Discussion Group](https://t.me/developer_base_ground) and [Developer Channel](https://t.me/azkadev)
-
-### Copyright & License 👮
-
-* Copyright (C) 2022 by [Azkadev](https://github.com/azkadev) ❤️️
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
